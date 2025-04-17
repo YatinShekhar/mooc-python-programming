@@ -1,4 +1,4 @@
-# MOOC-Python-Programming-2025-University-of-Helsinki
+# MOOC-Python-2025-University-of-Helsinki
 
 ## About this Repository:
 This repo contains solutions of the [MOOC Python Programming Course](https://programming-25.mooc.fi/) from `Department of Computer Science at University of Helsinki`.
@@ -16,7 +16,7 @@ The program is divided into two major parts -
 
 ## Certificate
 
-
+* [Python Programming I Certificate](https://certificates.mooc.fi/validate/tebmvec3rwn) (Issued: Apr 2025)
 
 
 
